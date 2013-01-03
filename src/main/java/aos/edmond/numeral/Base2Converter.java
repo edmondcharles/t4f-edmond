@@ -1,4 +1,4 @@
-package aos.edmond.code;
+package aos.edmond.numeral;
 
 public class Base2Converter {
 
