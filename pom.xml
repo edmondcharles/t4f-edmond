@@ -26,6 +26,12 @@
   </parent>
   <artifactId>t4f-edmond</artifactId>
   <name>T4F Edmond</name>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+    </dependency>
+  </dependencies>
   <repositories>
     <repository>
       <id>aos.public-snapshot</id>
