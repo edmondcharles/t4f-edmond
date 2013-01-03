@@ -28,6 +28,10 @@
   <name>T4F Edmond</name>
   <dependencies>
     <dependency>
+      <groupId>aos.summer</groupId>
+      <artifactId>aos-summer-console</artifactId>
+    </dependency>
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
     </dependency>
