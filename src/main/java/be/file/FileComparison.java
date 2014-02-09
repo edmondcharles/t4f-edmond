@@ -1,4 +1,4 @@
-package co.uk.file;
+package be.file;
 
 import java.io.BufferedReader;
 import java.io.File;

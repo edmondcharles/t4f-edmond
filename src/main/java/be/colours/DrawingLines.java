@@ -10,7 +10,7 @@ public class DrawingLines extends Applet {
     private int height;
         
     public void init(){
-        width=getSize().width;
+        width = getSize().width;
         height=getSize().height;
         setBackground(Color.BLACK);
     }
