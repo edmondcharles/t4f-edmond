@@ -1,4 +1,4 @@
-package be.file;
+package be.edmond.file;
 
 import java.io.BufferedReader;
 import java.io.File;

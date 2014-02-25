@@ -1,4 +1,4 @@
-package be.colours;
+package be.edmond.colours;
 
 import java.applet.Applet;
 import java.awt.Color;
